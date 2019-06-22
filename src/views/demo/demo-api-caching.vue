@@ -234,8 +234,6 @@ export default {
     }
   },
   updated(){
-    var objDiv = document.getElementById("datamsg");
-    objDiv.scrollTop = objDiv.scrollHeight;
   }
 };
 </script>
